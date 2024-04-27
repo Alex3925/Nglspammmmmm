@@ -31,7 +31,7 @@ def print_logo_and_menu(logo):
 def execute_option(choice):
     try:
         if choice == '1':
-            os.system('python option1.py')  # Execute option1.py
+            os.system('python nglspm.py')  # Execute option1.py
         elif choice == '2':
             os.system('python option2.py')  # Execute option2.py
         elif choice == '3':
