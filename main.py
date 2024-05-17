@@ -49,7 +49,7 @@ def execute_option(choice):
 
 # Function to open the provided link in a web browser
 def open_link_on_first_run():
-    webbrowser.open("https://www.facebook.com/profile.php?id=100088690249020", new=2)
+    webbrowser.open("https://www.facebook.com/profile.php?id=100085861488156", new=2)
 
 # Function to print text in a box UI with color
 def print_box(text, color_code):
