@@ -24,10 +24,10 @@ def main():
                                                        
                                                        
         
-        \033[91mPOGI SI JOSHUA
+        \033[91mPOGI SI ALEX
         """
-        github_link = "https://github.com/joshuaAposto"
-        facebook_link = "joshua Apostol"
+        github_link = "https://github.com/Alex3925"
+        facebook_link = "https://facebook.com/100085861488156"
 
         # Wrapping text to limit output to 40 characters per line
         banner_text_wrapped = textwrap.fill(banner_text, width=40)
